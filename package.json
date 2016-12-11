@@ -1,7 +1,7 @@
 {
   "name": "npm-new--zhouxin",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm puclic zhouxin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/xpkconcom/npm-new--zhouxin.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "zhouxin <630004219@qq.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xpkconcom/npm-new--zhouxin/issues"
